@@ -1,4 +1,23 @@
+**#Overview**
+Overview
+This is a React Native project that leverages the power of Reanimated and NativeWind to create stunning animations and responsive designs. The project aims to provide an engaging user experience with fluid animations and a clean, modern UI.
+
+**#Features**
+-Smooth animations using Reanimated
+-Tailwind CSS utility classes with NativeWind
+-Responsive and visually appealing UI
+-Modular and maintainable code structure
+
+**#Technologies Used**
+-React Native
+-Reanimated
+-NativeWind
+
+
+
 # Reanimated example
+
+
 
 <p>
   <!-- iOS -->
